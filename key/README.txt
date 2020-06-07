@@ -1,0 +1,1 @@
+Copy your key file here and rename to gcp_vision_key.json.
